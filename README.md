@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sefi
+- 👀 I’m interested in Blockchain technology and Coding 
+- 🌱 I’m currently learning Python and Java
+- 📫 You can reach me at sprotocol12@gmail.com
+- ⚽ My Hobbies are Soccer, Basketball, and being with my friends and family
